@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Unused original photo exports (the site serves the optimized .jpg versions)
+public/photos/*.png
